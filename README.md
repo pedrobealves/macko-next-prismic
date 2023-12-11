@@ -1,5 +1,7 @@
 # Mako
 
+Site dedicado à orientação profissional, que inclui a divulgação de oportunidades de emprego, cursos e um blog informativo. Adicionalmente, o site oferece consultoria especializada em elaboração de currículos e estratégias de posicionamento no mercado de trabalho. 
+
 ## Low-Fidelity Prototype
 
 ![Desktop Print](./style/../doc/HomeL%20-%20Desktop.png)
